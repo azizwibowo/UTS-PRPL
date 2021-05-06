@@ -1,0 +1,1 @@
+Route::get('/v1/posts/{id?}', 'api\v1\PostsController@show');
